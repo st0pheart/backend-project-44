@@ -9,20 +9,21 @@
   "bugs": {
     "url": "https://github.com/st0pheart/backend-project-44/issues"
   },
+  "license": "ISC",
+  "author": "me",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/st0pheart/backend-project-44.git"
   },
-  "license": "ISC",
-  "author": "me",
+  "bin": {
+    "brain-calc": "bin/games/brain-calc.js",
+    "brain-even": "bin/games/brain-even.js",
+    "brain-games": "bin/brain-games.js"
+  },
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "cd"
-  },
-  "bin": {
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "oxfmt": "^0.71.0",
