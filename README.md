@@ -38,3 +38,4 @@ cd backend-project-44
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
 
 https://asciinema.org/a/bCdLluF6xax8BmDn
+https://asciinema.org/a/ktYAI0BCJw3rH5oY
