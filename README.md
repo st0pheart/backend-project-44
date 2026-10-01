@@ -42,3 +42,4 @@ cd backend-project-44
 - [brain-even](https://asciinema.org/a/bCdLluF6xax8BmDn)
 - [brain-calc](https://asciinema.org/a/ktYAI0BCJw3rH5oY)
 - [brain-gcd](https://asciinema.org/a/YgnZUDTCDzO9vkU4)
+- [brain-progression](https://asciinema.org/a/OZMEcFaN4kb2Jt6t)
