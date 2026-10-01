@@ -43,4 +43,4 @@ cd backend-project-44
 - [brain-calc](https://asciinema.org/a/ktYAI0BCJw3rH5oY)
 - [brain-gcd](https://asciinema.org/a/YgnZUDTCDzO9vkU4)
 - [brain-progression](https://asciinema.org/a/OZMEcFaN4kb2Jt6t)
-- [brain-prime](ttps://asciinema.org/a/b6WNv5Sf8SLfsJAo)
+- [brain-prime](https://asciinema.org/a/b6WNv5Sf8SLfsJAo)
