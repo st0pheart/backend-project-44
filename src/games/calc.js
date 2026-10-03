@@ -7,7 +7,7 @@ const calc = () => {
     const a = randomInt(1, 25);
     const b = randomInt(1, 25);
     const op = ["+", "-", "*"];
-    const randomOp = op[randomInt(0, 3)];
+    const randomOp = op[randomInt(0, op.length)];
     let result = 0;
     switch (randomOp) {
       case "+":
